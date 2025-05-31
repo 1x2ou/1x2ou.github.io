@@ -24,7 +24,9 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 
 
 # 📝 Publications 
-
+ACL 2025 main
+ExpeTrans: LLMs Are Experiential Transfer Learners
+Jinglong Gao, Xiao Ding, **Lingxiao Zou**, Bibo Cai, Bing Qin, Ting Liu
 
 # 🎖 Honors and Awards
 
