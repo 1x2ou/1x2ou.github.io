@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a prospective master's student at Harbin Institute of Technology. I will enter the SCIR laboratory for scientific research in 2025. My research interest is natural language processing.
+Hello! I am a first-year master's student at the SCIR lab, Harbin Institute of Technology. My research focuses on natural language processing.
 
 If you like the template of this homepage, welcome to star and fork Yi Ren's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 # 🔥 News
