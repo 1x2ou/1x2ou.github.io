@@ -29,11 +29,11 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 Jinglong Gao, Xiao Ding, **Lingxiao Zou**, Bibo Cai, Bing Qin, Ting Liu
 
 # 🎖 Honors and Awards
-- *2025.10*, Special Scholarship for Graduate Students
+- *2025.10*, Special scholarship for master's degree students
+
 # 📖 Educations
 - *2021.09 - 2025.06*, Undergraduate,Harbin Institute of Technology.
-
-# 💬 Invited Talks
+  - Top 10%, Received 4 years of scholarships and outstanding graduate awards
 
 # 💻 Internships
 - *2024.11 - 2025.06*, Huawei, Xi'an.
